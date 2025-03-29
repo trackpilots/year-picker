@@ -1,6 +1,6 @@
 {
   "name": "@trackpilots/year-picker",
-  "version": "1.0.6",
+  "version": "1.0.10",
   "description": "A customizable year picker component for React, built with Tailwind CSS.",
   "main": "src/index.js",
   "module": "src/index.js",
